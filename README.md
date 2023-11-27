@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Soumya Prasad Chandra</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 💬 Ask me about **Software Developer with an emphasis in Python and Web Development. Dedicated to implementing new strategies and improving features of application. An Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Also an open-source enthusiast and maintainer Proficient in C/C++, JAVA, GIT, AWS, and SQL**
+**Software Developer with an emphasis in Python and Web Development. Dedicated to implementing new strategies and improving features of application. An Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Also an open-source enthusiast and maintainer Proficient in C/C++, JAVA, GIT, AWS, and SQL**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya2024&label=Profile%20views&color=0e75b6&style=flat" alt="soumya2024" /> </p>
 
