@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7115745692236582912/](https://www.linkedin.com/newsletters/7115745692236582912/)
 
-- 💬 Ask me about **React, Vue, Azure, Django**
+- 💬 Ask me about **Software Developer with an emphasis in Python and Web Development. Dedicated to implementing new strategies and improving features of application. An Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Also an open-source enthusiast and maintainer Proficient in C/C++, JAVA, GIT, AWS, and SQL**
 
 - 📫 How to reach me **chandra02102000@gmail.com. || sp.soumyachandra@gmail.com**
 
